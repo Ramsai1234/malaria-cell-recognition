@@ -32,8 +32,8 @@ Evaluate the model with the testing data using probability prediction(uninfected
 Fit the model and predict the sample input.
 
 ## PROGRAM
-#### Developed By: Manoj Guna Sundar Tella.
-#### Reg No: 212221240026.
+#### Developed By: P RAMSAI
+#### Reg No: 212221240041.
 ```
 import os
 import pandas as pd
